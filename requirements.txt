@@ -4,3 +4,4 @@ motor
 feedparser
 python-dotenv
 apscheduler
+aiohttp
